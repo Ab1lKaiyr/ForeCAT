@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas
+numpy
+requests
+joblib
+pydeck
+altair
+segno
+# Укажите ту же версию, что напечатал блокнот в Colab (есть в model/model_info.json), например scikit-learn==1.6.1
+scikit-learn
